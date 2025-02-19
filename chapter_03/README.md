@@ -6,3 +6,6 @@ This folder contains Python scripts implementing Basic of a perceptron. from Cha
 - example_04.py : Implementing ReLU Funtion and Drawing the graph of ReLU Funtion.
 - example_05.py : Implementing three steps Neural Network.
 - example_06.py : Implementing Clean code of Neural Network.
+- example_07.py : Implementing Softmax Function.
+- data_mnist.py : Downloading and Loading MNIST Dataset.
+- example_08.py : Implementing a simple neural network to classify MNIST digits and compute accuracy.
