@@ -9,3 +9,4 @@ This folder contains Python scripts implementing Basic of a perceptron. from Cha
 - example_07.py : Implementing Softmax Function.
 - data_mnist.py : Downloading and Loading MNIST Dataset.
 - example_08.py : Implementing a simple neural network to classify MNIST digits and compute accuracy.
+- example_09.py : Implementing Batch processing.
