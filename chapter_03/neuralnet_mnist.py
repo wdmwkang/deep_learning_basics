@@ -6,7 +6,7 @@ import numpy as np
 import sys
 import os
 # 부모 디렉터리의 파일을 가져올 수 있도록 설정
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(os.pardir)
 
 
 def get_data():
